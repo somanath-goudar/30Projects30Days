@@ -8,3 +8,4 @@ Will be Updated Daily until 30 Days.
 | :---:        |    :---:   |    :---:      |       :---:      |
 | 01       | [Glowing Neon Buttons](https://github.com/somanath-goudar/30Projects30Days/tree/master/1-glowing-neon-buttons)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/1-glowing-neon-buttons/)   | [Watch Tutorial](https://youtu.be/TGVncD5dtcI)      |
 | 02       | [Neumorphism Login Form](https://github.com/somanath-goudar/30Projects30Days/tree/master/2-neumorphism-login-form)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/2-neumorphism-login-form/)   | [Watch Tutorial](https://youtu.be/A8OBtZR9Msw)      |
+| 02       | [Responsive Task Management Dashboard](https://github.com/somanath-goudar/30Projects30Days/tree/master/3-task-management-dashboard-ui)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/3-task-management-dashboard-ui/)   | [Watch Tutorial](https://youtu.be/mvXX32keamM)      |
