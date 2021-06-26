@@ -1,0 +1,16 @@
+body {
+  background: #111;
+}
+
+img {
+  width: 100%;
+}
+.photo-grid-container {
+  column-count: 5;
+  column-width: 300px;
+}
+.photo-grid-item {
+  margin: 0 auto 15px;
+  max-width: 400px;
+  width: 100%;
+}
