@@ -16,6 +16,7 @@ Will be Updated Daily until 30 Days.
 | 08       | [Game Card Hover Effect](https://github.com/somanath-goudar/30Projects30Days/tree/master/8-game-card-hover)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/8-game-card-hover/)   | [Watch Tutorial](https://youtu.be/DmEcanPih_4)      |
 | 09       | [Dropmorphism](https://github.com/somanath-goudar/30Projects30Days/tree/master/9-dropmorphism)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/9-dropmorphism/)   | [Watch Tutorial](https://youtu.be/1FygYA8bUIY)      |
 | 10       | [Responsive Image Gallery](https://github.com/somanath-goudar/30Projects30Days/tree/master/10-responsive-image-gallery)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/10-responsive-image-gallery/)   | [Watch Tutorial](https://youtu.be/6VgThhxrTdk)      |
+| 11       | [Custom Radio Buttons](https://github.com/somanath-goudar/30Projects30Days/tree/master/11-custom-radio-buttons)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/11-custom-radio-buttons/)   | [Watch Tutorial](https://youtu.be/ixx5hctmhFU)      |
 
 
 
