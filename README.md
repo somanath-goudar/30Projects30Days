@@ -17,6 +17,7 @@ Will be Updated Daily until 30 Days.
 | 09       | [Dropmorphism](https://github.com/somanath-goudar/30Projects30Days/tree/master/9-dropmorphism)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/9-dropmorphism/)   | [Watch Tutorial](https://youtu.be/1FygYA8bUIY)      |
 | 10       | [Responsive Image Gallery](https://github.com/somanath-goudar/30Projects30Days/tree/master/10-responsive-image-gallery)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/10-responsive-image-gallery/)   | [Watch Tutorial](https://youtu.be/6VgThhxrTdk)      |
 | 11       | [Custom Radio Buttons](https://github.com/somanath-goudar/30Projects30Days/tree/master/11-custom-radio-buttons)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/11-custom-radio-buttons/)   | [Watch Tutorial](https://youtu.be/ixx5hctmhFU)      |
+| 12       | [Pricing Cards](https://github.com/somanath-goudar/30Projects30Days/tree/master/12-pricing-cards)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/12-pricing-cards/)   | [Watch Tutorial](https://youtu.be/3no4wrHP2Ek)      |
 
 
 
