@@ -1,0 +1,62 @@
+/* insipration this dribble: https://dribbble.com/shots/5041745-Switcher , mine only rotates switch one way as i'm using CSS only */
+/* no margin so the background is shown full page */
+html,
+body {
+  margin: 0 auto;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* a background used instead of body to change background color */
+.background {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  background: #ccc;
+  z-index: -1;
+  transition: all 0.5s;
+}
+input[type='checkbox'] {
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+label {
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 200px;
+  height: 100px;
+  background: #fff;
+  display: block;
+  border-radius: 100px;
+  position: relative;
+  transition: all 0.5s;
+}
+/* a dummy div that allows it to rotate opposite to the label, normally this would be in label:after */
+.s {
+  position: absolute;
+  right: 50.1vw;
+  width: 85px;
+  height: 85px;
+  background: #ccc;
+  border-radius: 90px;
+  transition: 0.5s;
+  transform-origin: 105% 50%;
+  pointer-events: none;
+}
+/* label rotates clockwise */
+input:checked + label {
+  transform: rotate(180deg);
+}
+/* dummy switch goes anti-clockwise */
+input:checked ~ .s {
+  transform: rotate(-180deg);
+  background: #00c801;
+}
+/* can't change the body here so this is why background was created */
+input:checked ~ .background {
+  background: #00c801;
+}
