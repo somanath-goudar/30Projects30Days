@@ -24,6 +24,7 @@ Will be Updated Daily until 30 Days.
 | 16       | [Neumorphism Animation](https://github.com/somanath-goudar/30Projects30Days/tree/master/16-neumorphism-animation)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/16-neumorphism-animation/)   | [Watch Tutorial](https://youtu.be/RUsjvG3_rNA)      |
 | 17       | [Card](https://github.com/somanath-goudar/30Projects30Days/tree/master/17-card)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/17-card/)   | [Watch Tutorial](https://youtu.be/xQCsnByVyIs)      |
 | 18       | [Slide Signin Signup](https://github.com/somanath-goudar/30Projects30Days/tree/master/18-slide-signin-signup)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/18-slide-signin-signup/)   | [Watch Tutorial](https://youtu.be/au9dLf9IMQ0)      |
+| 19       | [Search Box with Animation](https://github.com/somanath-goudar/30Projects30Days/tree/master/19-search-box-with-animation)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/19-search-box-with-animation/)   | [Watch Tutorial](https://youtu.be/1NAbwz4Reyw)      |
 
 
 
