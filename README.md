@@ -28,6 +28,7 @@ Will be Updated Daily until 30 Days.
 | 20       | [Animated Search Bar](https://github.com/somanath-goudar/30Projects30Days/tree/master/20-animated-search-bar)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/20-animated-search-bar/)   | [Watch Tutorial](https://youtu.be/96YFUIStTUk)      |
 | 21       | [3D Button Hover Effect](https://github.com/somanath-goudar/30Projects30Days/tree/master/21-hover-effect)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/21-hover-effect/)   | [Watch Tutorial](https://youtu.be/9y4jma20KDA)      |
 | 22       | [Responsive Profile Cards](https://github.com/somanath-goudar/30Projects30Days/tree/master/22-profile-card)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/22-profile-card/)   | [Watch Tutorial](https://youtu.be/DjNqabcLOoE)      |
+| 23       | [Buttons with Animated Border](https://github.com/somanath-goudar/30Projects30Days/tree/master/23-buttons-with-animated-border)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/23-buttons-with-animated-border/)   | [Watch Tutorial](https://youtu.be/1--XN4gLL8M)      |
 
 
 
