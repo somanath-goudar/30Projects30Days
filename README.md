@@ -30,6 +30,7 @@ Will be Updated Daily until 30 Days.
 | 22       | [Responsive Profile Cards](https://github.com/somanath-goudar/30Projects30Days/tree/master/22-profile-card)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/22-profile-card/)   | [Watch Tutorial](https://youtu.be/DjNqabcLOoE)      |
 | 23       | [Buttons with Animated Border](https://github.com/somanath-goudar/30Projects30Days/tree/master/23-buttons-with-animated-border)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/23-buttons-with-animated-border/)   | [Watch Tutorial](https://youtu.be/1--XN4gLL8M)      |
 | 24       | [Amazing Profile Cards](https://github.com/somanath-goudar/30Projects30Days/tree/master/24-profile-card2)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/24-profile-card2/)   | [Watch Tutorial](https://youtu.be/W2TomrNWAl4)      |
+| 25       | [Image with Title on Hover](https://github.com/somanath-goudar/30Projects30Days/tree/master/25-image-with-titleon-hover)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/25-image-with-titleon-hover/)   | [Watch Tutorial](https://youtu.be/0hY0mwrQp1M)      |
 
 
 
