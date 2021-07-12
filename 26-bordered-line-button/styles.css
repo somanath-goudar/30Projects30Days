@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  background-color: #212121;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 0px 40px;
+  display: inline-block;
+  margin: 15px 30px;
+  text-transform: uppercase;
+  line-height: 2.7em;
+  letter-spacing: 1.5px;
+  font-size: 1em;
+  outline: none;
+  position: relative;
+  font-size: 16px;
+  border: 3px solid #fff;
+  background-color: transparent;
+  border-radius: 15px 0 15px 15px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.btn:before {
+  content: '';
+  position: absolute;
+  right: -3px;
+  top: -3px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0 35px 35px 0;
+  border-color: transparent #c87f0a transparent transparent;
+  z-index: 1;
+}
+
+.btn:hover,
+.btn.hover {
+  border-color: #c87f0a;
+}
