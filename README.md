@@ -34,6 +34,8 @@ Will be Updated Daily until 30 Days.
 | 26       | [Bordered Line Button](https://github.com/somanath-goudar/30Projects30Days/tree/master/26-bordered-line-button)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/26-bordered-line-button/)   | [Watch Tutorial](https://youtu.be/VZcZYlcFvCA)      |
 | 27       | [Image with Button Hover Effect](https://github.com/somanath-goudar/30Projects30Days/tree/master/27-image-with-buttonon-hover)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/27-image-with-buttonon-hoverd/)   | [Watch Tutorial](https://youtu.be/ZuFVxZdHKkE)      |
 | 28       | [Button with Animated Border](https://github.com/somanath-goudar/30Projects30Days/tree/master/28-buttons-with-animated-border)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/28-buttons-with-animated-border/)   | [Watch Tutorial](https://youtu.be/AQ30VHSdBEI)      |
+| 29       | [CSS Card Hover Effect](https://github.com/somanath-goudar/30Projects30Days/tree/master/29-css-card-hover-effects)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/29-css-card-hover-effects/)   | [Watch Tutorial](https://youtu.be/htGvFqVmkUQ)      |
+| 30       | [Profile Cards 3](https://github.com/somanath-goudar/30Projects30Days/tree/master/30-profile-cards3)      | [Live Demo](https://somanath-goudar.github.io/30Projects30Days/30-profile-cards3/)   | [Watch Tutorial](https://youtu.be/0gyDGZmvTSA)      |
 
 
 
